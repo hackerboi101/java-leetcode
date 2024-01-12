@@ -9,6 +9,7 @@ This repo contains solutions to LeetCode problems implemented in Java.
     MergeSortedArray.java - Solution to the "Merge Sorted Array" problem.
     RemoveDuplicates.java - Solution to the "Remove Duplicates from Sorted Array" problem.
     RemoveElement.java - Solution to the "Remove Element" problem.
+    RomantoInteger.java - Solution to the "Roman to Integer" problem.
 
 ## Usage
 
